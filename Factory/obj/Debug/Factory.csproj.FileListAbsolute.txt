@@ -1,0 +1,8 @@
+C:\Users\AHISHAKIYE\Documents\Visual Studio 2012\Projects\bibliotheque\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\AHISHAKIYE\Documents\Visual Studio 2012\Projects\bibliotheque\Factory\bin\Debug\Factory.dll
+C:\Users\AHISHAKIYE\Documents\Visual Studio 2012\Projects\bibliotheque\Factory\bin\Debug\Factory.pdb
+C:\Users\AHISHAKIYE\Documents\Visual Studio 2012\Projects\bibliotheque\Factory\bin\Debug\Modele.dll
+C:\Users\AHISHAKIYE\Documents\Visual Studio 2012\Projects\bibliotheque\Factory\bin\Debug\MySql.Data.DLL
+C:\Users\AHISHAKIYE\Documents\Visual Studio 2012\Projects\bibliotheque\Factory\bin\Debug\Modele.pdb
+C:\Users\AHISHAKIYE\Documents\Visual Studio 2012\Projects\bibliotheque\Factory\obj\Debug\Factory.dll
+C:\Users\AHISHAKIYE\Documents\Visual Studio 2012\Projects\bibliotheque\Factory\obj\Debug\Factory.pdb
